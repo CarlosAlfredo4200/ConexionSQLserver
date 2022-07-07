@@ -1,0 +1,19 @@
+npm init
+npm i express
+npm i nodemon -D
+
+npm i mssql
+npm i dotenv
+npm i morgan
+npm i cors
+babeljs es para utilizar ECMAScript 6  en node
+
+npm i @babel/node npm i @babel/core @babel/cli @babel/preset-env nodemon -D
+
+
+Ejecuto con npm run dev
+
+
+https://www.youtube.com/watch?v=ReK0kscoF8o&t=121s&ab_channel=FaztCode
+
+Microsoft SQL Server & Nodejs REST API CRUD
